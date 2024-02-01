@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"of_gpio.h": "c",
+			"string.h": "c",
+			"fb.h": "c",
+			"input.h": "c",
+			"ezlcd_fonts.h": "c",
+			"ezlcd_bsp.h": "c",
+			"ezprojectapp.h": "c",
+			"delay.h": "c",
+			"ez_lcd_bsp.h": "c",
+			"ez_lcd_fonts.h": "c",
+			"stat.h": "c",
+			"module.h": "c",
+			"ez_mt_display_bsp.h": "c",
+			"ez_pump_bsp.h": "c",
+			"ez_hmi_bsp.h": "c",
+			"ez_pump.h": "c",
+			"ez_dolorone.h": "c",
+			"ez_pressure.h": "c"
+		}
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}

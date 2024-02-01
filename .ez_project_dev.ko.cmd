@@ -1,0 +1,1 @@
+cmd_/home/ez/linux/linux_drivers/ez_project/ez_project_dev.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ez/linux/linux_drivers/ez_project/ez_project_dev.ko /home/ez/linux/linux_drivers/ez_project/ez_project_dev.o /home/ez/linux/linux_drivers/ez_project/ez_project_dev.mod.o
